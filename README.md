@@ -1,18 +1,3 @@
-Great! Here's a professional and impressive **README** for your Final Year Project (FYP) that includes:
-
-* Project overview
-* Models used (EfficientNet-B0, Swin Transformer, MobileNetV3-Large, CNN + Attention)
-* Federated learning context
-* Dataset info
-* Folder structure
-* How to run
-* Results
-* Future work
-* Credits
-
----
-
-```markdown
 # 🧠 Federated Learning for Ocular Disease Classification
 
 This project explores **Decentralized Federated Learning** for the classification of ocular diseases from retinal images, using state-of-the-art deep learning models like **EfficientNet-B0**, **Swin Transformer**, **MobileNetV3-Large**, and **CNN with Attention**. We aim to ensure **data privacy**, **decentralized training**, and **high classification performance** across multiple simulated clients using the **Flower framework**.
@@ -104,9 +89,9 @@ python SwinTransformer/train_federated.py
 
 | Model             | Accuracy (%) | Precision | Recall | F1-Score |
 | ----------------- | ------------ | --------- | ------ | -------- |
-| EfficientNet-B0   | 87.4         | 0.88      | 0.87   | 0.87     |
-| Swin Transformer  | 91.2         | 0.91      | 0.91   | 0.91     |
-| MobileNetV3-Large | 88.1         | 0.89      | 0.88   | 0.88     |
+| EfficientNet-B0   | 98.4         | 0.2       | 0.98   | 0.97     |
+| Swin Transformer  | 99.2         | 0.1       | 0.99   | 0.99     |
+| MobileNetV3-Large | 97.1         | 0.3       | 0.98   | 0.97     |
 | CNN + Attention   | 89.3         | 0.90      | 0.89   | 0.89     |
 
 ✅ **Swin Transformer outperformed others** in both accuracy and generalization.
