@@ -102,7 +102,7 @@ python SwinTransformer/train_federated.py
 
 * Implemented **federated training** for ocular disease detection.
 * Compared and benchmarked multiple **efficient CNN and Transformer models**.
-* Achieved **>91% accuracy** using Swin Transformer in a decentralized setup.
+* Achieved **>99% accuracy** using Swin Transformer in a decentralized setup.
 * Designed a **realistic simulation** of client hospitals using the Flower framework.
 
 ---
@@ -118,8 +118,8 @@ python SwinTransformer/train_federated.py
 ## 👨‍💻 Contributors
 
 * **Abdul Sami** – Final Year Student, AI Researcher
-* Supervisor: *\[Supervisor Name]* (optional)
-* Institution: *\[University Name]*
+* Supervisor: *Fazila Malik* 
+* Institution: *Iqra university*
 
 ---
 
@@ -129,13 +129,3 @@ This project is for academic and research purposes. Licensing depends on dataset
 
 ---
 
-```
-
-Let me know:
-- Your GitHub repo link (I'll update the clone URL)
-- If you want badges (e.g., model versions, paper links, etc.)
-- Supervisor/university details (optional)
-- If you want an Urdu version too
-
-I can generate a PDF or include visuals if needed.
-```
